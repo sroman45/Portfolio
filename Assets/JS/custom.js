@@ -1,3 +1,3 @@
-window.onpageshow(function () {
-    alert('test')
+$(document).ready(function () {
+    alert('testing js');
 });
